@@ -38,6 +38,7 @@ body {
 }
 
 header {
+    padding-bottom: 50px;
     padding-top: 30px;
     text-align: center;
     height: 150px;
@@ -58,7 +59,6 @@ header > p {
     font-size: 1.2em;
     color: white;
     max-width: 500px;
-    padding-bottom: 50px;
     padding-left: 10px;
     padding-right: 10px;
     margin: auto;
